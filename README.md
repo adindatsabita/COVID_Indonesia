@@ -115,4 +115,5 @@
 
 #KONTRIBUTOR
 * Masukkan Nama Kontributor Disini dengan format [nama_lengkap](LinkedIn_Page)
+
 [Adinda_Tsabita_Salma](https://www.linkedin.com/in/adinda-tsabita-41b3591a6/)
